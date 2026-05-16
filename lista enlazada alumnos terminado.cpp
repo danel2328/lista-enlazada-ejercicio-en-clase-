@@ -148,7 +148,6 @@ int main() {
         actual = actual->siguiente;
     }
 
-    // Liberar memoria dinámica
     actual = inicio;
 
     while (actual != NULL) {
